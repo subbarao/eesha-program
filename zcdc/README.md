@@ -1,6 +1,6 @@
 ## Login Testcases
 
 - [x] Login success
-- [ ] Logout success
+- [x] Logout success
 - [ ] Wrong email success
 - [ ] Wrong password success
